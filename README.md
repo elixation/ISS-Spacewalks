@@ -13,5 +13,4 @@ The data was sourced by NASA and downloaded from 'data.world'.
 
 *K. Collins*
 
-![alt text](C:\Users\Kevin\AppData\Roaming\Typora\typora-user-images\image-20210217133557934.png)
-
+![](C:\CodingDojo\Projects\Week 3\ISS_Spacewalk_History\ISS-Spacewalks\ISS_Spacewalks_Image.png)
