@@ -1,7 +1,7 @@
 # ISS-Spacewalks
-​                                                                                                                                                                                               *Kevin J. Collins*
+​                                                                                                                                                                                         
 
-​                                                                                                                                                                                                  *2/15/21*                                                                                              USA vs. Russian Spacewalks from 1998 to 2019
+​                                                                                                                                                                                                                                                                                     USA vs. Russian Spacewalks from 1998 to 2019
 
 This dataset plots the number of ISS spacewalks by the USA and Russia from 1998 to 2019. The data shows the USA had a significant lead in ISS spacewalks during the time period. 
 
@@ -11,5 +11,7 @@ On average, the number of USA ISS spacewalks was at least double those performed
 
 The data was sourced by NASA and downloaded from 'data.world'.
 
-![image-20210217133557934](C:\Users\Kevin\AppData\Roaming\Typora\typora-user-images\image-20210217133557934.png)
+*K. Collins*
+
+![alt text](C:\Users\Kevin\AppData\Roaming\Typora\typora-user-images\image-20210217133557934.png)
 
