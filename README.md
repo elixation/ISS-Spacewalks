@@ -14,5 +14,5 @@ The data was sourced by NASA and downloaded from 'data.world'.
 *K. Collins*
 
 ```
-![ISS Data](/images/ISS_Spacewalks_Image.png)
+![](/images/ISS_Spacewalks_Image.png)
 ```
