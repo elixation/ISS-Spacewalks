@@ -11,7 +11,4 @@ On average, the number of USA ISS spacewalks was at least double those performed
 
 The data was sourced by NASA and downloaded from 'data.world'.
 
-*K. Collins*
-
-![ISS_Spacewalks_Image](\images\ISS_Spacewalks_Image.png)
-
+![ISS_Spacewalks_Image](images/ISS_Spacewalks_Image.png)
